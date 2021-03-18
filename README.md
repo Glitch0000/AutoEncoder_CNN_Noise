@@ -1,5 +1,5 @@
 # AutoEncoder_CNN_Noise
-In this example, we will introduce noise to the Fashion MNIST dataset and train an autoencoder to reconstruct the original input images and CNNs.
+In this example, we will introduce noise to the Fashion MNIST dataset and train an autoencoder to reconstruct the original input images using CNNs.
 
 The following figure shows the noisy input, the encoded datat and the generated ones:
 
